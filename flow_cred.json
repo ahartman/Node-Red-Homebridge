@@ -1,1 +1,18 @@
-{}
+{
+    "61506dc1.940954": {
+        "user": "ahartman2@me.com",
+        "pass": "pvcv-lgxl-oguf-ckug"
+    },
+    "3e48c330.8414ec": {
+        "user": "ahartman2@me.com",
+        "pass": "pvcv-lgxl-oguf-ckug"
+    },
+    "7b789b02.b3d6e4": {
+        "posLatitude": "51.35988",
+        "posLongitude": "4.48373"
+    },
+    "3a720637.38a402": {
+        "identity": "tradfri_1632029711950",
+        "preSharedKey": "lajSE0p42eRbscbF"
+    }
+}
